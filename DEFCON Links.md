@@ -3,7 +3,7 @@ Easy links and guides for DEF CON 28 Safemode
 
 ***Working Document***  
 Feel free to add!!  
-**Disclaimer:** This is not official with DEF CON, merely there to help friends. Use links at your own risk
+**Disclaimer:** This is not official with DEF CON, merely there to help friends. Use links at your own risk. If you like it, star it!
 
 ***DEF CON Streams***  
 
