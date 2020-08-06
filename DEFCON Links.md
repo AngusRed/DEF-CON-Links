@@ -35,6 +35,12 @@ Feel free to add!!
 
 ***DISCORD LINKS***  
 
+[**DEF CON Official** Discord**](https://discord.gg/defcon)  *See Human+ Below*  
+[**DC Red Team Village** Discord](https://discord.gg/redteamvillage)    
+[**DC Blue Team Village** Discord](https://discord.com/invite/blueteamvillage)    
+[**DC Wireless Hacking Village** Discord](https://discord.gg/TE55yvh)    
+[**DC IoT Village** Discord](https://www.iotvillage.org/discord/)    
+
 ***Tips/Advice***  
 
 # Having issues chatting on the Discord? You might need **Human+**. For more info go **[here](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)**
