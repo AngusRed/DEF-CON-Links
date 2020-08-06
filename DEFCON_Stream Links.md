@@ -1,11 +1,12 @@
 ***Working Document***  
-Feel free to add!!
-*Disclaimer:*This is not official with DEF CON, merely there to help friends. Use links at your own risk
+Feel free to add!!  
+**Disclaimer:** This is not official with DEF CON, merely there to help friends. Use links at your own risk
 
 ***DEF CON Streams***  
 
 
 [**DEF CON Music** Twitch Stream](https://www.twitch.tv/defcon_music)  
+[**DEF CON** Youtube Streams](https://www.youtube.com/user/DEFCONConference) **Need to check if all DEF CON streams will be here**
 
 
 ***DEF CON Village Streams***  
