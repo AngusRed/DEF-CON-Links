@@ -1,14 +1,17 @@
 ***Working Document***  
-Feel free to add  
+Feel free to add!!
+*Disclaimer:*This is not official with DEF CON, merely there to help friends. Use links at your own risk
 
-**DEF CON Streams**  
+***DEF CON Streams***  
 
 
 [**DEF CON Music** Twitch Stream](https://www.twitch.tv/defcon_music)  
 
 
-**DEF CON Village Streams**  
+***DEF CON Village Streams***  
 
+[**Blue Team Village** Twitch Stream](https://www.twitch.tv/blueteamvillage) 
+[**Red Team Village** Twitch Stream](https://www.twitch.tv/redteamvillage)  
 [**BiohackingVillage** Twitch Stream](https://m.twitch.tv/biohackingvillage/profile)
 [**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)  
 [**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)  
@@ -19,10 +22,15 @@ Feel free to add
 [**Monero Village** Twitch Stream](https://www.twitch.tv/monerovillage/)  
 [**Payments Village** Twitch Stream](https://www.twitch.tv/paymentvillage)  
 [**Password Village** Twitch Stream](https://www.twitch.tv/passwordvillage)  
-[**Red Team Village** Twitch Stream](https://www.twitch.tv/redteamvillage)  
-[**Blue Team Village** Twitch Stream](https://www.twitch.tv/blueteamvillage)  
 [**AppSec Village** Youtube Stream](https://www.youtube.com/channel/UCpT8Ll0b9ZLj1DeEQQz7f0A)  
 
-**Other Streams Related**  
+***Other Streams Related***  
 
 [**Second Order Chaos** Twitch Stream](https://www.twitch.tv/2ocstream) 
+[**Hacker Gameshow** Twitch Stream](https://www.twitch.tv/hackergameshows)
+
+***DISCORD LINKS***  
+
+***Tips/Advice***  
+
+Having issues chatting on the Discord? You might need **Human+**. For more info go [here](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)
