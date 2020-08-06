@@ -14,8 +14,8 @@ Feel free to add!!
 
 ***DEF CON Village Streams***  
 
-[**Blue Team Village** Twitch Stream](https://www.twitch.tv/blueteamvillage)   
-[**Red Team Village** Twitch Stream](https://www.twitch.tv/redteamvillage)    
+**Blue Team Village** [Twitch Stream](https://www.twitch.tv/blueteamvillage) [Youtube Stream](https://www.youtube.com/channel/UCk4dddMFiso_hgt0ViSPNpQ)     
+**Red Team Village** [Twitch Stream](https://www.twitch.tv/redteamvillage) [Youtube Stream](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ)      
 [**BiohackingVillage** Twitch Stream](https://m.twitch.tv/biohackingvillage/profile)  
 [**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)    
 [**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)  
