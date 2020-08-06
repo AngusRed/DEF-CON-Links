@@ -37,7 +37,8 @@ Feel free to add!!
 ***Other Streams Related***  
 
 [**Second Order Chaos** Twitch Stream](https://www.twitch.tv/2ocstream)   
-[**Hacker Gameshow** Twitch Stream](https://www.twitch.tv/hackergameshows)
+[**Hacker Gameshow** Twitch Stream](https://www.twitch.tv/hackergameshows)  
+[**The Many Hats Club** Twitch Stream](https://www.twitch.tv/themanyhatsclub)  
 
 ***DISCORD LINKS***  
 
