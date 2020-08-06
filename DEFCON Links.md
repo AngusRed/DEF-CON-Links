@@ -1,4 +1,4 @@
-# DEF_CON
+# DEF CON 28 Safemode Links
 Easy links and guides for DEF CON 28 Safemode  
 
 ***Working Document***  
