@@ -14,10 +14,10 @@ Feel free to add!!
 
 ***DEF CON Village Streams***  
 
-[**Blue Team Village** Twitch Stream](https://www.twitch.tv/blueteamvillage) 
-[**Red Team Village** Twitch Stream](https://www.twitch.tv/redteamvillage)  
-[**BiohackingVillage** Twitch Stream](https://m.twitch.tv/biohackingvillage/profile)
-[**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)  
+[**Blue Team Village** Twitch Stream](https://www.twitch.tv/blueteamvillage)   
+[**Red Team Village** Twitch Stream](https://www.twitch.tv/redteamvillage)    
+[**BiohackingVillage** Twitch Stream](https://m.twitch.tv/biohackingvillage/profile)  
+[**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)    
 [**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)  
 [**ICS Village** Twitch Stream](https://www.twitch.tv/ics_village)  
 [**IoT Village** Twitch Stream](https://www.twitch.tv/iotvillage)  
