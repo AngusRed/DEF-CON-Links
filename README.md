@@ -36,7 +36,8 @@ Feel free to add!!
 [**cpxSatAmericas** Twitch Stream](https://www.twitch.tv/cpxsatamericas)  ***Newly Added***  
 [**Voting Village** Twitch Stream](https://www.twitch.tv/votingvillagedc)  ***Newly Added***  
 [**Hardware Hacking Village** Twitch Stream](https://www.twitch.tv/dchhv)  ***Newly Added***  
-[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***  
+[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***   
+[**Hack The Sea** Youtube Stream](https://www.youtube.com/channel/UC5htD_rPiP8N7v8VQKyJkOQ?view_as=subscriber) ***Newly Added***  
 
 
 # ***Other Streams Related***  
@@ -53,7 +54,7 @@ Feel free to add!!
 [**DC Blue Team Village** Discord](https://discord.com/invite/blueteamvillage)    
 [**DC Wireless Hacking Village** Discord](https://discord.gg/TE55yvh)    
 [**DC IoT Village** Discord](https://www.iotvillage.org/discord/)  
-[**DC Aerospace Village** Discord](https://discord.gg/gV4EWuk)  // [Backup](https://aerospacevillage.org/defcon-28/) ***Newly Added***    
+[**DC Aerospace Village** Discord](https://discord.gg/gV4EWuk)  // [Backup](https://aerospacevillage.org/defcon-28/) ***Newly Added***  
 
 # ***Tips/Advice***  
 
