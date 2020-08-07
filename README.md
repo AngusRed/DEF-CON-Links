@@ -22,7 +22,8 @@ Feel free to add!!
 **Red Team Village**  [Twitch Stream](https://www.twitch.tv/redteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ) // [Schedule](https://redteamvillage.io/schedule.html)  
 **Aerospace Village** [Twitch Stream](https://www.twitch.tv/aerospacevillage) // [Youtube Stream](https://www.youtube.com/channel/UC0NxjsvnBmhiCy2P8LHsXpw) // [Schedule](https://aerospacevillage.org/def-con-28-schedule/)  ***Newly Added***   
 **BiohackingVillage** [Twitch Stream](https://m.twitch.tv/biohackingvillage/profile) // [Youtube Stream](https://www.youtube.com/channel/UCm1Kas76P64rs2s1LUA6s2Q?sub_confirmation=1) // [Schedule](https://www.villageb.io/speaker-schedule)   
-**Career Hacking Village** [Twitch Stream](https://www.twitch.tv/careerhackingvillage) // [Youtube Stream](https://www.youtube.com/channel/UCxF_PpndJEoi4fsrQx6yuQw) ***Newly Added***     
+**Career Hacking Village** [Twitch Stream](https://www.twitch.tv/careerhackingvillage) // [Youtube Stream](https://www.youtube.com/channel/UCxF_PpndJEoi4fsrQx6yuQw) ***Newly Added***    
+**Hack The Sea** [Twitch Stream](https://www.twitch.tv/hackthesea) // [Youtube Stream](https://www.youtube.com/channel/UC5htD_rPiP8N7v8VQKyJkOQ?view_as=subscriber) // [Schedule](https://hackthesea.org/schedule-2020/) ***Newly Added***    
 [**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)    
 [**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)  
 [**ICS Village** Twitch Stream](https://www.twitch.tv/ics_village)  
@@ -37,7 +38,7 @@ Feel free to add!!
 [**Voting Village** Twitch Stream](https://www.twitch.tv/votingvillagedc)  ***Newly Added***  
 [**Hardware Hacking Village** Twitch Stream](https://www.twitch.tv/dchhv)  ***Newly Added***  
 [**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***   
-[**Hack The Sea** Youtube Stream](https://www.youtube.com/channel/UC5htD_rPiP8N7v8VQKyJkOQ?view_as=subscriber) // [Schedule](https://hackthesea.org/schedule-2020/) ***Newly Added***    
+  
 
 
 # ***Other Streams Related***  
