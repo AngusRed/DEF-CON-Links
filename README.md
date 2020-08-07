@@ -21,7 +21,8 @@ Feel free to add!!
 **Blue Team Village** [Twitch Stream](https://www.twitch.tv/blueteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UCk4dddMFiso_hgt0ViSPNpQ) // [Schedule](https://cfc.blueteamvillage.org/call-for-content-2020/schedule/#2020-08-07)        
 **Red Team Village**  [Twitch Stream](https://www.twitch.tv/redteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ) // [Schedule](https://redteamvillage.io/schedule.html)  
 **Aerospace Village** [Twitch Stream](https://www.twitch.tv/aerospacevillage) // [Youtube Stream](https://www.youtube.com/channel/UC0NxjsvnBmhiCy2P8LHsXpw) // [Schedule](https://aerospacevillage.org/def-con-28-schedule/)  ***Newly Added***   
-[**BiohackingVillage** Twitch Stream](https://m.twitch.tv/biohackingvillage/profile) // [Youtube Stream](https://www.youtube.com/channel/UCm1Kas76P64rs2s1LUA6s2Q?sub_confirmation=1) // [Schedule](https://www.villageb.io/speaker-schedule)  
+**BiohackingVillage** [Twitch Stream](https://m.twitch.tv/biohackingvillage/profile) // [Youtube Stream](https://www.youtube.com/channel/UCm1Kas76P64rs2s1LUA6s2Q?sub_confirmation=1) // [Schedule](https://www.villageb.io/speaker-schedule)   
+**Career Hacking Village** [Twitch Stream](https://www.twitch.tv/careerhackingvillage) // [Youtube Stream](https://www.youtube.com/channel/UCxF_PpndJEoi4fsrQx6yuQw) ***Newly Added***     
 [**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)    
 [**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)  
 [**ICS Village** Twitch Stream](https://www.twitch.tv/ics_village)  
@@ -35,14 +36,15 @@ Feel free to add!!
 [**cpxSatAmericas** Twitch Stream](https://www.twitch.tv/cpxsatamericas)  ***Newly Added***  
 [**Voting Village** Twitch Stream](https://www.twitch.tv/votingvillagedc)  ***Newly Added***  
 [**Hardware Hacking Village** Twitch Stream](https://www.twitch.tv/dchhv)  ***Newly Added***  
-[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***   
+[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***  
 
 
 # ***Other Streams Related***  
 
 [**Second Order Chaos** Twitch Stream](https://www.twitch.tv/2ocstream)   
 [**Hacker Gameshow** Twitch Stream](https://www.twitch.tv/hackergameshows)  
-[**The Many Hats Club** Twitch Stream](https://www.twitch.tv/themanyhatsclub)  
+[**The Many Hats Club** Twitch Stream](https://www.twitch.tv/themanyhatsclub)   
+[**ZephrPhish** Twitch Stream](https://www.twitch.tv/zephrphish)  
 
 # ***DISCORD LINKS***  
 
@@ -50,7 +52,8 @@ Feel free to add!!
 [**DC Red Team Village** Discord](https://discord.gg/redteamvillage)    
 [**DC Blue Team Village** Discord](https://discord.com/invite/blueteamvillage)    
 [**DC Wireless Hacking Village** Discord](https://discord.gg/TE55yvh)    
-[**DC IoT Village** Discord](https://www.iotvillage.org/discord/)    
+[**DC IoT Village** Discord](https://www.iotvillage.org/discord/)  
+[**DC Aerospace Village** Discord](https://discord.gg/gV4EWuk)  // [Backup](https://aerospacevillage.org/defcon-28/) ***Newly Added***    
 
 # ***Tips/Advice***  
 
