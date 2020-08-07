@@ -51,7 +51,8 @@ Feel free to add!!
 
 ***Tips/Advice***  
 
-# Having issues chatting on the Discord? You might need **Human+**. For more info go **[here](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)**  
+Having issues chatting on the **DEF CON** Discord? You might need **Human+**. For more info go **[here](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)**  
 
-## Get Hacker Tracker App to get timings in your Timezone [Hacker Tracker Website **Unverified**](https://hackertracker.info/) // [Play Store](https://play.google.com/store/apps/details?id=com.shortstack.hackertracker&hl=en_ZA) // [Apple Store](https://apps.apple.com/us/app/hackertracker/id1021141595) 
+Get Hacker Tracker App to get timings in your Timezone    
+[Hacker Tracker Website **Unverified**](https://hackertracker.info/) // [Play Store](https://play.google.com/store/apps/details?id=com.shortstack.hackertracker&hl=en_ZA) // [Apple Store](https://apps.apple.com/us/app/hackertracker/id1021141595) 
  
