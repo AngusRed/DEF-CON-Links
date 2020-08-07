@@ -17,7 +17,7 @@ Feel free to add!!
 
 **Blue Team Village** [Twitch Stream](https://www.twitch.tv/blueteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UCk4dddMFiso_hgt0ViSPNpQ) // [Schedule](https://cfc.blueteamvillage.org/call-for-content-2020/schedule/#2020-08-07)        
 **Red Team Village**  [Twitch Stream](https://www.twitch.tv/redteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ) // [Schedule](https://redteamvillage.io/schedule.html)  
-**Aerospace Village** [Twitch Stream](https://www.twitch.tv/aerospacevillage) // [Youtube Stream](https://www.youtube.com/channel/UC0NxjsvnBmhiCy2P8LHsXpw) // [Schedule](https://aerospacevillage.org/def-con-28-schedule/)  ***Newly Added*** 
+**Aerospace Village** [Twitch Stream](https://www.twitch.tv/aerospacevillage) // [Youtube Stream](https://www.youtube.com/channel/UC0NxjsvnBmhiCy2P8LHsXpw) // [Schedule](https://aerospacevillage.org/def-con-28-schedule/)  ***Newly Added***   
 [**BiohackingVillage** Twitch Stream](https://m.twitch.tv/biohackingvillage/profile) // [Youtube Stream](https://www.youtube.com/channel/UCm1Kas76P64rs2s1LUA6s2Q?sub_confirmation=1) // [Schedule](https://www.villageb.io/speaker-schedule)  
 [**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)    
 [**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)  
@@ -51,5 +51,7 @@ Feel free to add!!
 
 ***Tips/Advice***  
 
-# Having issues chatting on the Discord? You might need **Human+**. For more info go **[here](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)**
+# Having issues chatting on the Discord? You might need **Human+**. For more info go **[here](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)**  
+
+## Get Hacker Tracker App to get timings in your Timezone [Hacker Tracker Website **Unverified**](https://hackertracker.info/) // [Play Store](https://play.google.com/store/apps/details?id=com.shortstack.hackertracker&hl=en_ZA) // [Apple Store](https://apps.apple.com/us/app/hackertracker/id1021141595) 
  
