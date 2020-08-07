@@ -5,7 +5,10 @@ Easy links and guides for DEF CON 28 Safemode
 Feel free to add!!  
 **Disclaimer:** This is not official with DEF CON, merely there to help friends. Use links at your own risk. If you like it, star it! *Rick Roll Sold seperatly*
 
-***DEF CON Streams***  
+**[DISCORD 101](https://github.com/wallofsheep/discord101/blob/master/DC_Discord_101_20200617.pdf)** by **[@riverside](https://twitter.com/wallofsheep)**  
+
+
+# ***DEF CON Streams***  
 
 
 [**DEF CON Music** Twitch Stream](https://www.twitch.tv/defcon_music)  
@@ -13,7 +16,7 @@ Feel free to add!!
 [**DEF CON Chill** Twitch Stream](https://www.twitch.tv/defcon_chill)  ***Newly Added***    
 
 
-***DEF CON Village Streams***  
+# ***DEF CON Village Streams***  
 
 **Blue Team Village** [Twitch Stream](https://www.twitch.tv/blueteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UCk4dddMFiso_hgt0ViSPNpQ) // [Schedule](https://cfc.blueteamvillage.org/call-for-content-2020/schedule/#2020-08-07)        
 **Red Team Village**  [Twitch Stream](https://www.twitch.tv/redteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ) // [Schedule](https://redteamvillage.io/schedule.html)  
@@ -35,13 +38,13 @@ Feel free to add!!
 [**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***   
 
 
-***Other Streams Related***  
+# ***Other Streams Related***  
 
 [**Second Order Chaos** Twitch Stream](https://www.twitch.tv/2ocstream)   
 [**Hacker Gameshow** Twitch Stream](https://www.twitch.tv/hackergameshows)  
 [**The Many Hats Club** Twitch Stream](https://www.twitch.tv/themanyhatsclub)  
 
-***DISCORD LINKS***  
+# ***DISCORD LINKS***  
 
 [**DEF CON Official** Discord**](https://discord.gg/defcon)  *See Human+ Below*  
 [**DC Red Team Village** Discord](https://discord.gg/redteamvillage)    
@@ -49,7 +52,7 @@ Feel free to add!!
 [**DC Wireless Hacking Village** Discord](https://discord.gg/TE55yvh)    
 [**DC IoT Village** Discord](https://www.iotvillage.org/discord/)    
 
-***Tips/Advice***  
+# ***Tips/Advice***  
 
 Having issues chatting on the **DEF CON** Discord? You might need **Human+**. For more info go **[here](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)**  
 
