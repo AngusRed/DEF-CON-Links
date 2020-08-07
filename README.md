@@ -37,7 +37,7 @@ Feel free to add!!
 [**Voting Village** Twitch Stream](https://www.twitch.tv/votingvillagedc)  ***Newly Added***  
 [**Hardware Hacking Village** Twitch Stream](https://www.twitch.tv/dchhv)  ***Newly Added***  
 [**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***   
-[**Hack The Sea** Youtube Stream](https://www.youtube.com/channel/UC5htD_rPiP8N7v8VQKyJkOQ?view_as=subscriber) ***Newly Added***  
+[**Hack The Sea** Youtube Stream](https://www.youtube.com/channel/UC5htD_rPiP8N7v8VQKyJkOQ?view_as=subscriber) // [Schedule](https://hackthesea.org/schedule-2020/) ***Newly Added***    
 
 
 # ***Other Streams Related***  
