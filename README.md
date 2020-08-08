@@ -23,7 +23,10 @@ Feel free to add!!
 **Aerospace Village** [Twitch Stream](https://www.twitch.tv/aerospacevillage) // [Youtube Stream](https://www.youtube.com/channel/UC0NxjsvnBmhiCy2P8LHsXpw) // [Schedule](https://aerospacevillage.org/def-con-28-schedule/)  ***Newly Added***   
 **BiohackingVillage** [Twitch Stream](https://m.twitch.tv/biohackingvillage/profile) // [Youtube Stream](https://www.youtube.com/channel/UCm1Kas76P64rs2s1LUA6s2Q?sub_confirmation=1) // [Schedule](https://www.villageb.io/speaker-schedule)   
 **Career Hacking Village** [Twitch Stream](https://www.twitch.tv/careerhackingvillage) // [Youtube Stream](https://www.youtube.com/channel/UCxF_PpndJEoi4fsrQx6yuQw) ***Newly Added***    
-**Hack The Sea** [Twitch Stream](https://www.twitch.tv/hackthesea) // [Youtube Stream](https://www.youtube.com/channel/UC5htD_rPiP8N7v8VQKyJkOQ?view_as=subscriber) // [Schedule](https://hackthesea.org/schedule-2020/) ***Newly Added***    
+**Hack The Sea** [Twitch Stream](https://www.twitch.tv/hackthesea) // [Youtube Stream](https://www.youtube.com/channel/UC5htD_rPiP8N7v8VQKyJkOQ?view_as=subscriber) // [Schedule](https://hackthesea.org/schedule-2020/) ***Newly Added***  
+**Car Hacking Village (Track1)** [Twitch Stream](https://www.twitch.tv/chvtrack001) // [Youtube Stream](https://www.youtube.com/watch?v=VvojAHUej1Q) // [Schedule](https://www.carhackingvillage.com/)  ***Newly Added***  
+**Car Hacking Village (Track2)** [Twitch Stream](https://www.twitch.tv/chvtrack002) // [Youtube Stream](https://www.youtube.com/watch?v=5DYhXbWkWoA) // [Schedule](https://www.carhackingvillage.com/)  ***Newly Added***  
+**Car Hacking Village (CHV 101)** [Twitch Stream](https://www.twitch.tv/chv101) // [Youtube Stream](https://www.youtube.com/watch?v=N4y_K4GGsLs) // [Schedule](https://www.carhackingvillage.com/)  ***Newly Added***  
 [**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)    
 [**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)  
 [**ICS Village** Twitch Stream](https://www.twitch.tv/ics_village)  
