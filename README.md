@@ -3,7 +3,9 @@ Easy links and guides for DEF CON 28 Safemode
 
 ***Working Document***  
 Feel free to add!!  
-**Disclaimer:** This is not official with DEF CON, merely there to help friends. Use links at your own risk. If you like it, star it! *Rick Roll Sold seperatly*
+**Disclaimer:** This is not official with DEF CON, merely there to help friends. Use links at your own risk. If you like it, star it! *Rick Roll Sold seperatly*  
+
+***YOUR FIRST PORT OF CALL SHOULD BE THE DEF CON*** [WEBSITE](https://info.defcon.org/)  
 
 **[DISCORD 101](https://github.com/wallofsheep/discord101/blob/master/DC_Discord_101_20200617.pdf)** by **[@riverside](https://twitter.com/wallofsheep)**  
 
