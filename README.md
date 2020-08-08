@@ -11,8 +11,9 @@ Feel free to add!!
 # ***DEF CON Streams***  
 
 [**DEF CON org** Twitch Stream](https://www.twitch.tv/defconorg)  ***Newly Added***  
+[**Hacker Jeopardy** Twitch Stream](https://www.twitch.tv/dfiutv) ***Newly Added***  
 [**DEF CON Music** Twitch Stream](https://www.twitch.tv/defcon_music)  
-[**DEF CON** Youtube Streams](https://www.youtube.com/user/DEFCONConference) **Need to check if all DEF CON streams will be here**  
+[**DEF CON** Youtube Streams](https://www.youtube.com/user/DEFCONConference) 
 [**DEF CON Chill** Twitch Stream](https://www.twitch.tv/defcon_chill)  ***Newly Added***    
 
 
@@ -32,7 +33,7 @@ Feel free to add!!
 [**ICS Village** Twitch Stream](https://www.twitch.tv/ics_village)  
 [**IoT Village** Twitch Stream](https://www.twitch.tv/iotvillage)  
 [**ByPass Village** Twitch Stream](https://www.twitch.tv/bypassvillage/)  
-[**Toool US Village** Twitch Stream](https://www.twitch.tv/toool_us)  
+[**Toool US/Lockpick Village** Twitch Stream](https://www.twitch.tv/toool_us)  
 [**Monero Village** Twitch Stream](https://www.twitch.tv/monerovillage/)  
 [**Payments Village** Twitch Stream](https://www.twitch.tv/paymentvillage)  
 [**Password Village** Twitch Stream](https://www.twitch.tv/passwordvillage)  
@@ -40,8 +41,8 @@ Feel free to add!!
 [**cpxSatAmericas** Twitch Stream](https://www.twitch.tv/cpxsatamericas)  ***Newly Added***  
 [**Voting Village** Twitch Stream](https://www.twitch.tv/votingvillagedc)  ***Newly Added***  
 [**Hardware Hacking Village** Twitch Stream](https://www.twitch.tv/dchhv)  ***Newly Added***  
-[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***   
-  
+[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***  
+
 
 
 # ***Other Streams Related***  
