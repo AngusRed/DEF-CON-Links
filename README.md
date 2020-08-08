@@ -10,11 +10,11 @@ Feel free to add!!
 
 # ***DEF CON Streams***  
 
-[**DEF CON org** Twitch Stream](https://www.twitch.tv/defconorg) // [Schedule](https://info.defcon.org/)  ***Newly Added***  
-[**Hacker Jeopardy** Twitch Stream](https://www.twitch.tv/dfiutv) ***Newly Added***    
-[**DEF CON Music** Twitch Stream](https://www.twitch.tv/defcon_music)  
-[**DEF CON** Youtube Streams](https://www.youtube.com/user/DEFCONConference)   
-[**DEF CON Chill** Twitch Stream](https://www.twitch.tv/defcon_chill)  ***Newly Added***    
+**DEF CON org** [Twitch Stream](https://www.twitch.tv/defconorg) // [Schedule](https://info.defcon.org/)  ***Newly Added***  
+**Hacker Jeopardy** [Twitch Stream](https://www.twitch.tv/dfiutv) ***Newly Added***    
+**DEF CON Music** [Twitch Stream](https://www.twitch.tv/defcon_music)  
+**DEF CON** [Youtube Streams](https://www.youtube.com/user/DEFCONConference)   
+**DEF CON Chill** [Twitch Stream](https://www.twitch.tv/defcon_chill)  ***Newly Added***    
 
 
 # ***DEF CON Village Streams***  
@@ -33,39 +33,39 @@ Feel free to add!!
 **Wall of Sheep/Packet Hacking Village** [Twitch Steam](https://www.twitch.tv/wallofsheep) // [Youtube Stream](https://www.youtube.com/wallofsheep) // [Schedule](https://www.wallofsheep.com/pages/dc28) ***Newly Added***  
 **Recon Village** [Twitch Stream](https://www.twitch.tv/reconvillage) // [Youtube Stream](https://www.youtube.com/channel/UC0M1k0PpjCXJR2xDEfD6Jlw) // [Schedule](https://www.reconvillage.org/talks.html) ***Newly Added***  
 **Cloud Hacking Village** [Youtube Stream](https://www.youtube.com/channel/UCupKln6fqF9tBTweRE6xNDQ) // [Schedule](https://cloud-village.org/) ***Newly Added***  
-[**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)    
-[**ICS Village** Twitch Stream](https://www.twitch.tv/ics_village)  
-[**IoT Village** Twitch Stream](https://www.twitch.tv/iotvillage)  
-[**ByPass Village** Twitch Stream](https://www.twitch.tv/bypassvillage/)  
-[**Toool US/Lockpick Village** Twitch Stream](https://www.twitch.tv/toool_us)  
-[**Monero Village** Twitch Stream](https://www.twitch.tv/monerovillage/)  
-[**Payments Village** Twitch Stream](https://www.twitch.tv/paymentvillage)  
-[**Password Village** Twitch Stream](https://www.twitch.tv/passwordvillage)  
-[**AppSec Village** Youtube Stream](https://www.youtube.com/channel/UCpT8Ll0b9ZLj1DeEQQz7f0A)  
-[**cpxSatAmericas** Twitch Stream](https://www.twitch.tv/cpxsatamericas)  
-[**Voting Village** Twitch Stream](https://www.twitch.tv/votingvillagedc)   
-[**Hardware Hacking Village** Twitch Stream](https://www.twitch.tv/dchhv)  ***Newly Added***  
-[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)   
-[**AI Village** Twitch Stream](https://www.twitch.tv/aivillage) [Schedule](https://aivillage.org/events/2020/8/4/ai-village-def-con-28-safe-mode) ***Newly Added***  
+**Ham Radio Village** [Twitch Stream ](https://www.twitch.tv/HamRadioVillage)    
+**ICS Village** [Twitch Stream](https://www.twitch.tv/ics_village)  
+**IoT Village** [Twitch Stream](https://www.twitch.tv/iotvillage)  
+**ByPass Village** [Twitch Stream](https://www.twitch.tv/bypassvillage/)  
+**Toool US/Lockpick Village** [Twitch Stream](https://www.twitch.tv/toool_us)  
+**Monero Village** [Twitch Stream](https://www.twitch.tv/monerovillage/)  
+**Payments Village** [Twitch Stream](https://www.twitch.tv/paymentvillage)  
+**Password Village** [Twitch Stream](https://www.twitch.tv/passwordvillage)  
+**AppSec Village** [Youtube Stream](https://www.youtube.com/channel/UCpT8Ll0b9ZLj1DeEQQz7f0A)  
+**cpxSatAmericas** [Twitch Stream](https://www.twitch.tv/cpxsatamericas)  
+**Voting Village** [Twitch Stream](https://www.twitch.tv/votingvillagedc)   
+**Hardware Hacking Village** [Twitch Stream](https://www.twitch.tv/dchhv)  ***Newly Added***  
+**Rogues Village** [Twitch Stream](https://www.twitch.tv/roguesvillage)   
+**AI Village** [Twitch Stream](https://www.twitch.tv/aivillage) [Schedule](https://aivillage.org/events/2020/8/4/ai-village-def-con-28-safe-mode) ***Newly Added***  
 
 
 
 
 # ***Other Streams Related***  
 
-[**Second Order Chaos** Twitch Stream](https://www.twitch.tv/2ocstream)   
-[**Hacker Gameshow** Twitch Stream](https://www.twitch.tv/hackergameshows)  
-[**The Many Hats Club** Twitch Stream](https://www.twitch.tv/themanyhatsclub)   
-[**ZephrPhish** Twitch Stream](https://www.twitch.tv/zephrphish)  
+**Second Order Chaos** [Twitch Stream](https://www.twitch.tv/2ocstream)   
+**Hacker Gameshow** [Twitch Stream](https://www.twitch.tv/hackergameshows)  
+**The Many Hats Club** [Twitch Stream](https://www.twitch.tv/themanyhatsclub)   
+**ZephrPhish** [Twitch Stream](https://www.twitch.tv/zephrphish)  
 
 # ***DISCORD LINKS***  
 
-[**DEF CON Official** Discord**](https://discord.gg/defcon)  *See Human+ Below*  
-[**DC Red Team Village** Discord](https://discord.gg/redteamvillage)    
-[**DC Blue Team Village** Discord](https://discord.com/invite/blueteamvillage)    
-[**DC Wireless Hacking Village** Discord](https://discord.gg/TE55yvh)    
-[**DC IoT Village** Discord](https://www.iotvillage.org/discord/)  
-[**DC Aerospace Village** Discord](https://discord.gg/gV4EWuk)  // [Backup](https://aerospacevillage.org/defcon-28/) ***Newly Added***  
+**DEF CON Official** [Discord**](https://discord.gg/defcon)  *See Human+ Below*  
+**DC Red Team Village** [Discord](https://discord.gg/redteamvillage)    
+**DC Blue Team Village** [Discord](https://discord.com/invite/blueteamvillage)    
+**DC Wireless Hacking Village** [Discord](https://discord.gg/TE55yvh)    
+**DC IoT Village** [Discord](https://www.iotvillage.org/discord/)  
+**DC Aerospace Village** [Discord](https://discord.gg/gV4EWuk)  // [Backup](https://aerospacevillage.org/defcon-28/) ***Newly Added***  
 
 # ***Tips/Advice***  
 
