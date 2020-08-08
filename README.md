@@ -21,15 +21,16 @@ Feel free to add!!
 
 **Blue Team Village** [Twitch Stream](https://www.twitch.tv/blueteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UCk4dddMFiso_hgt0ViSPNpQ) // [Schedule](https://cfc.blueteamvillage.org/call-for-content-2020/schedule/#2020-08-07)        
 **Red Team Village**  [Twitch Stream](https://www.twitch.tv/redteamvillage) // [Youtube Stream](https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ) // [Schedule](https://redteamvillage.io/schedule.html)  
-**Aerospace Village** [Twitch Stream](https://www.twitch.tv/aerospacevillage) // [Youtube Stream](https://www.youtube.com/channel/UC0NxjsvnBmhiCy2P8LHsXpw) // [Schedule](https://aerospacevillage.org/def-con-28-schedule/)  ***Newly Added***   
+**Aerospace Village** [Twitch Stream](https://www.twitch.tv/aerospacevillage) // [Youtube Stream](https://www.youtube.com/channel/UC0NxjsvnBmhiCy2P8LHsXpw) // [Schedule](https://aerospacevillage.org/def-con-28-schedule/)    
 **BiohackingVillage** [Twitch Stream](https://m.twitch.tv/biohackingvillage/profile) // [Youtube Stream](https://www.youtube.com/channel/UCm1Kas76P64rs2s1LUA6s2Q?sub_confirmation=1) // [Schedule](https://www.villageb.io/speaker-schedule)   
 **Career Hacking Village** [Twitch Stream](https://www.twitch.tv/careerhackingvillage) // [Youtube Stream](https://www.youtube.com/channel/UCxF_PpndJEoi4fsrQx6yuQw) ***Newly Added***    
 **Hack The Sea** [Twitch Stream](https://www.twitch.tv/hackthesea) // [Youtube Stream](https://www.youtube.com/channel/UC5htD_rPiP8N7v8VQKyJkOQ?view_as=subscriber) // [Schedule](https://hackthesea.org/schedule-2020/) ***Newly Added***  
 **Car Hacking Village (Track1)** [Twitch Stream](https://www.twitch.tv/chvtrack001) // [Youtube Stream](https://www.youtube.com/watch?v=VvojAHUej1Q) // [Schedule](https://www.carhackingvillage.com/)  ***Newly Added***  
 **Car Hacking Village (Track2)** [Twitch Stream](https://www.twitch.tv/chvtrack002) // [Youtube Stream](https://www.youtube.com/watch?v=5DYhXbWkWoA) // [Schedule](https://www.carhackingvillage.com/)  ***Newly Added***  
-**Car Hacking Village (CHV 101)** [Twitch Stream](https://www.twitch.tv/chv101) // [Youtube Stream](https://www.youtube.com/watch?v=N4y_K4GGsLs) // [Schedule](https://www.carhackingvillage.com/)  ***Newly Added***  
-[**CryptoVillage** Twitch Stream](https://www.twitch.tv/cryptovillage/)    
-[**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)  
+**Car Hacking Village (CHV 101)** [Twitch Stream](https://www.twitch.tv/chv101) // [Youtube Stream](https://www.youtube.com/watch?v=N4y_K4GGsLs) // [Schedule](https://www.carhackingvillage.com/)  ***Newly Added***    
+**CryptoVillage** [Twitch Stream](https://www.twitch.tv/cryptovillage/) // [Youtube Stream](https://youtube.com/c/CryptoVillage) //  [Schedule](https://cryptovillage.org/dc28/) ***Newly Added***          
+**Ethics Village** [Twitch Stream](https://www.twitch.tv/ethicsvillage) // [Youtube Stream](https://www.youtube.com/channel/UCFHR_XHI16-ik8qqtfOSBHw) // [Schedule](http://ethicsvillage.org/#sched) ***Newly Added***      
+[**Ham Radio Village** Twitch Stream ](https://www.twitch.tv/HamRadioVillage)    
 [**ICS Village** Twitch Stream](https://www.twitch.tv/ics_village)  
 [**IoT Village** Twitch Stream](https://www.twitch.tv/iotvillage)  
 [**ByPass Village** Twitch Stream](https://www.twitch.tv/bypassvillage/)  
@@ -38,10 +39,15 @@ Feel free to add!!
 [**Payments Village** Twitch Stream](https://www.twitch.tv/paymentvillage)  
 [**Password Village** Twitch Stream](https://www.twitch.tv/passwordvillage)  
 [**AppSec Village** Youtube Stream](https://www.youtube.com/channel/UCpT8Ll0b9ZLj1DeEQQz7f0A)  
-[**cpxSatAmericas** Twitch Stream](https://www.twitch.tv/cpxsatamericas)  ***Newly Added***  
-[**Voting Village** Twitch Stream](https://www.twitch.tv/votingvillagedc)  ***Newly Added***  
+[**cpxSatAmericas** Twitch Stream](https://www.twitch.tv/cpxsatamericas)  
+[**Voting Village** Twitch Stream](https://www.twitch.tv/votingvillagedc)   
 [**Hardware Hacking Village** Twitch Stream](https://www.twitch.tv/dchhv)  ***Newly Added***  
-[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)  ***Newly Added***  
+[**Rogues Village** Twitch Stream](https://www.twitch.tv/roguesvillage)   
+[**AI Village** Twitch Stream](https://www.twitch.tv/aivillage) [Schedule](https://aivillage.org/events/2020/8/4/ai-village-def-con-28-safe-mode) ***Newly Added***  
+**Wall of Sheep/Packet Hacking Village** [Twitch Steam](https://www.twitch.tv/wallofsheep) // [Youtube Stream](https://www.youtube.com/wallofsheep) // [Schedule](https://www.wallofsheep.com/pages/dc28) ***Newly Added***  
+**Recon Village** [Twitch Stream]() // [Youtube Stream]() // [Schedule](https://www.reconvillage.org/talks.html) ***Newly Added***  
+**Cloud Hacking Village** [Youtube Stream](https://www.youtube.com/channel/UCupKln6fqF9tBTweRE6xNDQ) // [Schedule](https://cloud-village.org/) ***Newly Added***
+
 
 
 
