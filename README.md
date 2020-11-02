@@ -69,6 +69,8 @@ Feel free to add!!
 **DC Wireless Hacking Village** [Discord](https://discord.gg/TE55yvh)    
 **DC IoT Village** [Discord](https://www.iotvillage.org/discord/)  
 **DC Aerospace Village** [Discord](https://discord.gg/gV4EWuk)  // [Backup](https://aerospacevillage.org/defcon-28/) ***Newly Added***  
+**VETCON** [Discord](https://discord.gg/W7kvGHnbyn) ***Newly Added***  
+
 
 # ***Tips/Advice***  
 
