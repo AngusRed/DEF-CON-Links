@@ -79,5 +79,38 @@ As it stands, none of this is verified! Please pitch in and help out!
 Having issues chatting on the **DEF CON** Discord? You might need **Human+**. For more info go **[here](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)**  
 
 Get Hacker Tracker App to get timings in your Timezone    
-[Hacker Tracker Website **Unverified**](https://hackertracker.info/) // [Play Store](https://play.google.com/store/apps/details?id=com.shortstack.hackertracker&hl=en_ZA) // [Apple Store](https://apps.apple.com/us/app/hackertracker/id1021141595) 
+[Hacker Tracker Website **Unverified**](https://hackertracker.info/) // [Play Store](https://play.google.com/store/apps/details?id=com.shortstack.hackertracker&hl=en_ZA) // [Apple Store](https://apps.apple.com/us/app/hackertracker/id1021141595)   
+
+Got this from Def Con nfoBot  
+
+DEF CON Main: https://www.twitch.tv/defconorg  
+DEF CON DCTV One: https://www.twitch.tv/defcon_dctv_one   
+DEF CON DCTV Two: https://www.twitch.tv/defcon_dctv_two   
+DEF CON DCTV Three: https://www.twitch.tv/defcon_dctv_three   
+DEF CON DCTV Four: https://www.twitch.tv/defcon_dctv_four   
+DEF CON DCTV Five: https://www.twitch.tv/defcon_dctv_five   
+DEF CON Music: https://www.twitch.tv/defcon_music   
+
+Villages  
+Adversary Village: https://www.twitch.tv/adversaryvillage   
+Aerospace Village: Videos are linked at https://aerospacevillage.org/events/upcoming-events/def-con-29/def-con-29-schedule/   
+AI Village: https://www.twitch.tv/aivillage   
+Appsec Village: Videos are linked at https://www.appsecvillage.com/events/dc-2021   
+B.I.C. (Blacks In Cybersecurity) Village: https://www.youtube.com/c/BlacksInCybersecurity   
+Bio Hacking Village: https://wishyouwerehere.villageb.io/defcon/event/bhv-2021-1_defcon/room4.html   
+Blue Team Village: https://twitch.tv/blueteamvillage   
+Car Hacking Village: https://www.carhackingvillage.com/defcon29   
+Career Hacking: https://www.youtube.com/CareerHackingVillage   
+Cloud Village: https://www.youtube.com/cloudvillage_dc   
+Crypto & Privacy Village: https://www.twitch.tv/cryptovillage   
+ICS Village: https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw   
+IoT Village: https://www.twitch.tv/iotvillage   
+Lock Bypass Village: https://www.twitch.tv/bypassvillage   
+Packet Hacking Village: https://www.youtube.com/channel/UCnL9S5Wv_dNvO381slSA06w   
+Password Village: Videos are linked at https://passwordvillage.org/schedule.html   
+Payment Village: https://www.twitch.tv/paymentvillage   
+Recon Village: https://www.youtube.com/c/ReconVillage/live   
+Rogues Village: https://www.twitch.tv/roguesvillage   
+Social Engineering Village: https://www.twitch.tv/socialengineerllc   
+Voting Village: https://www.youtube.com/channel/UCnDevqsxt3sO8chqS5MGvwg  
  
